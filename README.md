@@ -1,0 +1,2 @@
+# Implementation of LeNet using DeepMind's library Haiku
+The file `lenet_mnist.py` contains the code for running the LeNet architecture on the MNIST dataset. Simple modifications to the dataset loading function make this code suitable for any kind of classification problem.
